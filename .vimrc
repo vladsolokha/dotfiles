@@ -101,4 +101,4 @@ inoremap <C-k> <ESC>O
 " I don't use glyphs almost at all
 
 " Make long python comment using map for <leader-key>c or ,c
-nnoremap ,c i'''<C-j>'''<C-k>
+nnoremap ,c i'''<C-j>'''<C-o>O
