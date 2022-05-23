@@ -99,3 +99,6 @@ inoremap <C-j> <Enter>
 " make <C-G><C-K> in insert mode same as <C-K>
 inoremap <C-k> <ESC>O
 " I don't use glyphs almost at all
+
+" Make long python comment using map for <leader-key>c or ,c
+nnoremap ,c i'''<C-j>'''<C-k>
