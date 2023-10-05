@@ -1,0 +1,104 @@
+{
+  "Work" : {
+    "E1C74986-F045-2FA6-B1E7-3377434C16E5" : {
+      "apps" : {
+        "zoom.us" : {
+          "y" : 790,
+          "w" : 1024,
+          "x" : 2560,
+          "h" : 650
+        },
+        "Spotify" : {
+          "y" : 185,
+          "w" : 1024,
+          "x" : 3584,
+          "h" : 628
+        },
+        "Notes" : {
+          "y" : 185,
+          "w" : 1024,
+          "x" : 2560,
+          "h" : 628
+        },
+        "Slack" : {
+          "y" : 812,
+          "w" : 1024,
+          "x" : 3585,
+          "h" : 628
+        }
+      },
+      "Monitor Name" : "Built-in Retina Display"
+    },
+    "07C93694-F118-C3D0-231B-BFF9568BBF6F" : {
+      "apps" : {
+        "Code" : {
+          "y" : 25,
+          "w" : 1280,
+          "x" : 1280,
+          "h" : 1415
+        },
+        "Hammerspoon" : {
+          "y" : 325,
+          "w" : 510,
+          "x" : 761,
+          "h" : 625
+        },
+        "Google Chrome" : {
+          "y" : 25,
+          "w" : 1280,
+          "x" : -0,
+          "h" : 1415
+        }
+      },
+      "Monitor Name" : "Thunderbolt Display"
+    }
+  },
+  "WorkDefault" : {
+    "E1C74986-F045-2FA6-B1E7-3377434C16E5" : {
+      "apps" : {
+        "zoom.us" : {
+          "y" : 812,
+          "w" : 1024,
+          "x" : 2560,
+          "h" : 628
+        },
+        "Spotify" : {
+          "y" : 185,
+          "w" : 1024,
+          "x" : 3584,
+          "h" : 628
+        },
+        "Notes" : {
+          "y" : 185,
+          "w" : 1024,
+          "x" : 2560,
+          "h" : 628
+        },
+        "Slack" : {
+          "y" : 812,
+          "w" : 1024,
+          "x" : 3584,
+          "h" : 628
+        }
+      },
+      "Monitor Name" : "Built-in Retina Display"
+    },
+    "07C93694-F118-C3D0-231B-BFF9568BBF6F" : {
+      "apps" : {
+        "Google Chrome" : {
+          "y" : 25,
+          "w" : 1280,
+          "x" : 0,
+          "h" : 1415
+        },
+        "Code" : {
+          "y" : 25,
+          "w" : 1024,
+          "x" : 1335,
+          "h" : 1415
+        }
+      },
+      "Monitor Name" : "Thunderbolt Display"
+    }
+  }
+}
