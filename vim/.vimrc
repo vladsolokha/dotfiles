@@ -2,10 +2,11 @@
 
 "remove all compatibility to improve functionality
 set nocompatible 
-
 " security exploits with modlines in files
-
 set modelines=0
+
+" fzf use
+set rtp+=/opt/homebrew/opt/fzf
 
 set tabstop=4
 set shiftwidth=4
